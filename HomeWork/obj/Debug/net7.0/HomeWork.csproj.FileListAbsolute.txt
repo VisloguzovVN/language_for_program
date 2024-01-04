@@ -1,0 +1,14 @@
+C:\Users\Слава\OneDrive\Документы\Программирование\Облако знаний\Знакомство с языками программирования\Лекция 1\CSHARP\lesson1\HomeWork\obj\Debug\net7.0\HomeWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Слава\OneDrive\Документы\Программирование\Облако знаний\Знакомство с языками программирования\Лекция 1\CSHARP\lesson1\HomeWork\obj\Debug\net7.0\HomeWork.AssemblyInfoInputs.cache
+C:\Users\Слава\OneDrive\Документы\Программирование\Облако знаний\Знакомство с языками программирования\Лекция 1\CSHARP\lesson1\HomeWork\obj\Debug\net7.0\HomeWork.AssemblyInfo.cs
+C:\Users\Слава\OneDrive\Документы\Программирование\Облако знаний\Знакомство с языками программирования\Лекция 1\CSHARP\lesson1\HomeWork\obj\Debug\net7.0\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Слава\OneDrive\Документы\Программирование\Облако знаний\Знакомство с языками программирования\Лекция 1\CSHARP\lesson1\HomeWork\bin\Debug\net7.0\HomeWork.exe
+C:\Users\Слава\OneDrive\Документы\Программирование\Облако знаний\Знакомство с языками программирования\Лекция 1\CSHARP\lesson1\HomeWork\bin\Debug\net7.0\HomeWork.deps.json
+C:\Users\Слава\OneDrive\Документы\Программирование\Облако знаний\Знакомство с языками программирования\Лекция 1\CSHARP\lesson1\HomeWork\bin\Debug\net7.0\HomeWork.runtimeconfig.json
+C:\Users\Слава\OneDrive\Документы\Программирование\Облако знаний\Знакомство с языками программирования\Лекция 1\CSHARP\lesson1\HomeWork\bin\Debug\net7.0\HomeWork.dll
+C:\Users\Слава\OneDrive\Документы\Программирование\Облако знаний\Знакомство с языками программирования\Лекция 1\CSHARP\lesson1\HomeWork\bin\Debug\net7.0\HomeWork.pdb
+C:\Users\Слава\OneDrive\Документы\Программирование\Облако знаний\Знакомство с языками программирования\Лекция 1\CSHARP\lesson1\HomeWork\obj\Debug\net7.0\HomeWork.dll
+C:\Users\Слава\OneDrive\Документы\Программирование\Облако знаний\Знакомство с языками программирования\Лекция 1\CSHARP\lesson1\HomeWork\obj\Debug\net7.0\refint\HomeWork.dll
+C:\Users\Слава\OneDrive\Документы\Программирование\Облако знаний\Знакомство с языками программирования\Лекция 1\CSHARP\lesson1\HomeWork\obj\Debug\net7.0\HomeWork.pdb
+C:\Users\Слава\OneDrive\Документы\Программирование\Облако знаний\Знакомство с языками программирования\Лекция 1\CSHARP\lesson1\HomeWork\obj\Debug\net7.0\HomeWork.genruntimeconfig.cache
+C:\Users\Слава\OneDrive\Документы\Программирование\Облако знаний\Знакомство с языками программирования\Лекция 1\CSHARP\lesson1\HomeWork\obj\Debug\net7.0\ref\HomeWork.dll
