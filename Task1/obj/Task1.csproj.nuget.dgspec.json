@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Слава\\OneDrive\\Документы\\Программирование\\Облако знаний\\Знакомство с языками программирования\\Лекция 1\\CSHARP\\Lesson1\\Task1\\Task1.csproj": {}
+    "C:\\Users\\Слава\\OneDrive\\Документы\\Программирование\\Облако знаний\\4. Знакомство с языками программирования\\Лекции\\CSHARP\\Lesson1\\Task1\\Task1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Слава\\OneDrive\\Документы\\Программирование\\Облако знаний\\Знакомство с языками программирования\\Лекция 1\\CSHARP\\Lesson1\\Task1\\Task1.csproj": {
+    "C:\\Users\\Слава\\OneDrive\\Документы\\Программирование\\Облако знаний\\4. Знакомство с языками программирования\\Лекции\\CSHARP\\Lesson1\\Task1\\Task1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Слава\\OneDrive\\Документы\\Программирование\\Облако знаний\\Знакомство с языками программирования\\Лекция 1\\CSHARP\\Lesson1\\Task1\\Task1.csproj",
+        "projectUniqueName": "C:\\Users\\Слава\\OneDrive\\Документы\\Программирование\\Облако знаний\\4. Знакомство с языками программирования\\Лекции\\CSHARP\\Lesson1\\Task1\\Task1.csproj",
         "projectName": "Task1",
-        "projectPath": "C:\\Users\\Слава\\OneDrive\\Документы\\Программирование\\Облако знаний\\Знакомство с языками программирования\\Лекция 1\\CSHARP\\Lesson1\\Task1\\Task1.csproj",
+        "projectPath": "C:\\Users\\Слава\\OneDrive\\Документы\\Программирование\\Облако знаний\\4. Знакомство с языками программирования\\Лекции\\CSHARP\\Lesson1\\Task1\\Task1.csproj",
         "packagesPath": "C:\\Users\\Слава\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Слава\\OneDrive\\Документы\\Программирование\\Облако знаний\\Знакомство с языками программирования\\Лекция 1\\CSHARP\\Lesson1\\Task1\\obj\\",
+        "outputPath": "C:\\Users\\Слава\\OneDrive\\Документы\\Программирование\\Облако знаний\\4. Знакомство с языками программирования\\Лекции\\CSHARP\\Lesson1\\Task1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Слава\\AppData\\Roaming\\NuGet\\NuGet.Config"
