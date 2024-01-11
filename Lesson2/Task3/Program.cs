@@ -1,5 +1,5 @@
 ﻿//int n = 10;
-int[] array = { 2, 5, 4, 7, 8, 35, 1, 3, 8, 5 };
+int[] array = { 1, 3, 5, 7, 9, 12, 13, 14, 17, 18 };
 int i = 0;
 
 while(i < array.Length)
